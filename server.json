@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.socialfaktory/mcp",
-  "title": "SocialFaktory",
-  "description": "Write, generate, schedule and publish a brand's social content, in its own voice, on every channel.",
-  "version": "1.0.0",
+  "title": "SocialFaktory: Social Media MCP Server",
+  "description": "Social media MCP server: write in a brand's voice, generate short video, schedule and publish posts.",
+  "version": "1.0.1",
   "websiteUrl": "https://www.socialfaktory.com/docs/mcp",
   "icons": [
     {

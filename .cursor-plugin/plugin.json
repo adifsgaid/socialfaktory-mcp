@@ -1,7 +1,7 @@
 {
   "name": "socialfaktory",
-  "version": "1.0.0",
-  "description": "Write, generate, schedule and publish a brand's social content, in its own voice, on every channel.",
+  "version": "1.0.1",
+  "description": "SocialFaktory's social media MCP server: write posts in a brand's voice, generate short video, and schedule or publish on TikTok, Instagram, YouTube, X, LinkedIn, Facebook and Pinterest.",
   "author": {
     "name": "SocialFaktory"
   },
@@ -9,10 +9,19 @@
   "repository": "https://github.com/adifsgaid/socialfaktory-mcp",
   "license": "MIT",
   "keywords": [
-    "marketing",
     "social-media",
-    "productivity",
-    "mcp"
+    "social-media-scheduler",
+    "social-media-automation",
+    "mcp",
+    "mcp-server",
+    "content-scheduling",
+    "video-generation",
+    "brand-voice",
+    "marketing",
+    "tiktok",
+    "instagram",
+    "youtube",
+    "linkedin"
   ],
   "logo": "assets/logo.svg"
 }

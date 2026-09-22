@@ -2,8 +2,8 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "socialfaktory",
   "displayName": "SocialFaktory",
-  "version": "1.0.0",
-  "description": "Write, generate, schedule and publish a brand's social content, in its own voice, on every channel.",
+  "version": "1.0.1",
+  "description": "SocialFaktory's social media MCP server: write posts in a brand's voice, generate short video, and schedule or publish on TikTok, Instagram, YouTube, X, LinkedIn, Facebook and Pinterest.",
   "author": {
     "name": "SocialFaktory",
     "email": "hello@socialfaktory.com",
@@ -12,5 +12,19 @@
   "homepage": "https://www.socialfaktory.com/docs/mcp",
   "repository": "https://github.com/adifsgaid/socialfaktory-mcp",
   "license": "MIT",
-  "keywords": ["marketing", "social-media", "productivity", "mcp"]
+  "keywords": [
+    "social-media",
+    "social-media-scheduler",
+    "social-media-automation",
+    "mcp",
+    "mcp-server",
+    "content-scheduling",
+    "video-generation",
+    "brand-voice",
+    "marketing",
+    "tiktok",
+    "instagram",
+    "youtube",
+    "linkedin"
+  ]
 }

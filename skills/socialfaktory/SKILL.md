@@ -1,6 +1,6 @@
 ---
 name: socialfaktory
-description: "Write, generate, schedule and publish a brand's social content, in its own voice, on TikTok, Instagram, YouTube, X, LinkedIn, Facebook and Pinterest, through the SocialFaktory MCP server."
+description: Schedule and publish social media posts with the SocialFaktory MCP server: write in a brand's voice, generate short video, and post to TikTok, Instagram, YouTube, X, LinkedIn, Facebook and Pinterest. Use when the user wants to draft, generate, schedule or publish a brand's social content.
 homepage: https://www.socialfaktory.com/docs/mcp
 metadata:
   {

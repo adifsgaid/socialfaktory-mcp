@@ -1,8 +1,8 @@
-# SocialFaktory MCP server
+# SocialFaktory: Social Media MCP Server
 
 <img src="assets/logo-512.png" width="96" alt="SocialFaktory">
 
-Write, generate, schedule and publish a brand's social content, in its own voice, on every channel.
+The social media MCP server for [SocialFaktory](https://www.socialfaktory.com). Your agent writes posts in a brand's own voice, generates short video, and schedules or publishes them on TikTok, Instagram, YouTube, X, LinkedIn, Facebook and Pinterest.
 
 SocialFaktory runs a brand's social media from one place, and this connector lets your agent run it with you. It reads the brands, channels and media you already have, writes posts in the brand's own voice, prices and generates short video, takes a file you upload, composes one post per channel, schedules or sends it on TikTok, Instagram, YouTube, X, LinkedIn, Facebook and Pinterest, and reads the metrics back. Reading is free. Generating and publishing need an active SocialFaktory plan. Generating spends the credits in your wallet, and the agent is told to quote first and ask you. Posts are drafts until you send them, and nothing reaches a channel without the publish permission you grant on the consent screen, where you also pin the connection to one brand, cap what it may spend each month and choose when it expires. Cloning a video from a link, and generating still images or carousels, are not available through an agent yet. Connecting a social channel is a browser sign-in and stays in the app.
 
