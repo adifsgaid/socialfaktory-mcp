@@ -1,6 +1,7 @@
 {
   "mcpServers": {
     "socialfaktory": {
+      "type": "http",
       "url": "https://www.socialfaktory.com/mcp"
     }
   }
