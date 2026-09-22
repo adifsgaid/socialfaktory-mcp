@@ -5,24 +5,16 @@
   "description": "Write, generate, schedule and publish a brand's social content, in its own voice, on every channel.",
   "version": "1.0.0",
   "websiteUrl": "https://www.socialfaktory.com/docs/mcp",
-  "repository": {
-    "url": "https://github.com/adifsgaid/socialfaktory-mcp",
-    "source": "github"
-  },
   "icons": [
     {
       "src": "https://www.socialfaktory.com/icon.svg",
       "mimeType": "image/svg+xml",
-      "sizes": [
-        "any"
-      ]
+      "sizes": ["any"]
     },
     {
       "src": "https://www.socialfaktory.com/connector-icon-512.png",
       "mimeType": "image/png",
-      "sizes": [
-        "512x512"
-      ]
+      "sizes": ["512x512"]
     }
   ],
   "remotes": [
