@@ -119,7 +119,8 @@ It cannot connect or disconnect a social channel, change your plan or buy credit
 - `.cursor-plugin/plugin.json`, `mcp.json`: Cursor plugin manifest and server config
 - `.claude-plugin/plugin.json`, `.mcp.json`: Claude Code plugin manifest and server config
 - `openclaw.plugin.json`, `.clawhubignore`: ClawHub bundle-plugin manifest and publish ignore list
-- `skills/socialfaktory/SKILL.md`: agent skill, published on ClawHub and loaded by the plugins
+- `skills/socialfaktory/SKILL.md`: agent skill loaded by the Claude Code and Cursor plugins
+- `clawhub/socialfaktory/SKILL.md`: OpenClaw skill published on ClawHub, with the OpenClaw connect steps
 - `assets/`: logo, and `icon.png` for the ClawHub catalog
 
 The files in this repository are MIT licensed. The hosted service is governed by its own terms.
