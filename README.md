@@ -4,7 +4,7 @@
 
 Write, generate, schedule and publish a brand's social content, in its own voice, on every channel.
 
-SocialFaktory runs a brand's social media from one place, and this connector lets your agent run it with you. It reads the brands, channels and media you already have, writes posts in the brand's own voice, prices and generates short video, takes a file you upload, composes one post per channel, schedules or sends it on TikTok, Instagram, YouTube, X, LinkedIn, Facebook and Pinterest, and reads the metrics back. Reading is free. Generating spends the credits in your wallet, and the agent is told to quote first and ask you. Posts are drafts until you send them, and nothing reaches a channel without the publish permission you grant on the consent screen, where you also pin the connection to one brand, cap what it may spend each month and choose when it expires. Cloning a video from a link, and generating still images or carousels, are not available through an agent yet. Connecting a social channel is a browser sign-in and stays in the app.
+SocialFaktory runs a brand's social media from one place, and this connector lets your agent run it with you. It reads the brands, channels and media you already have, writes posts in the brand's own voice, prices and generates short video, takes a file you upload, composes one post per channel, schedules or sends it on TikTok, Instagram, YouTube, X, LinkedIn, Facebook and Pinterest, and reads the metrics back. Reading is free. Generating and publishing need an active SocialFaktory plan. Generating spends the credits in your wallet, and the agent is told to quote first and ask you. Posts are drafts until you send them, and nothing reaches a channel without the publish permission you grant on the consent screen, where you also pin the connection to one brand, cap what it may spend each month and choose when it expires. Cloning a video from a link, and generating still images or carousels, are not available through an agent yet. Connecting a social channel is a browser sign-in and stays in the app.
 
 This repository holds the listing files for the hosted server. The server itself runs at `https://www.socialfaktory.com/mcp` and is not open source. You need a SocialFaktory account with at least one brand and a connected social channel: https://www.socialfaktory.com
 
@@ -117,7 +117,9 @@ It cannot connect or disconnect a social channel, change your plan or buy credit
 
 - `server.json`: the entry published to the official MCP Registry as `com.socialfaktory/mcp` (https://registry.modelcontextprotocol.io/v0.1/servers/com.socialfaktory%2Fmcp/versions/latest)
 - `.cursor-plugin/plugin.json`, `mcp.json`: Cursor plugin manifest and server config
-- `skills/socialfaktory/SKILL.md`: OpenClaw skill, published on ClawHub
-- `assets/`: logo
+- `.claude-plugin/plugin.json`, `.mcp.json`: Claude Code plugin manifest and server config
+- `openclaw.plugin.json`, `.clawhubignore`: ClawHub bundle-plugin manifest and publish ignore list
+- `skills/socialfaktory/SKILL.md`: agent skill, published on ClawHub and loaded by the plugins
+- `assets/`: logo, and `icon.png` for the ClawHub catalog
 
 The files in this repository are MIT licensed. The hosted service is governed by its own terms.
