@@ -117,6 +117,7 @@ It cannot connect or disconnect a social channel, change your plan or buy credit
 
 - `server.json`: the entry published to the official MCP Registry as `com.socialfaktory/mcp` (https://registry.modelcontextprotocol.io/v0.1/servers/com.socialfaktory%2Fmcp/versions/latest)
 - `.cursor-plugin/plugin.json`, `mcp.json`: Cursor plugin manifest and server config
+- `skills/socialfaktory/SKILL.md`: OpenClaw skill, published on ClawHub
 - `assets/`: logo
 
 The files in this repository are MIT licensed. The hosted service is governed by its own terms.
