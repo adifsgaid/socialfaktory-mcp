@@ -54,7 +54,7 @@ mcporter list socialfaktory --schema
 ```bash
 mcporter call socialfaktory.list_brands
 mcporter call socialfaktory.list_channels brand_id=brand_...
-mcporter call socialfaktory.generate_text --args '{"brand_id":"brand_...","brief":"Autumn launch","channel":"x","idempotency_key":"a-fresh-uuid"}'
+mcporter call socialfaktory.generate_text --args '{"brand_id":"brand_...","brief":"Autumn launch","platform":"x","idempotency_key":"a-fresh-uuid"}'
 ```
 
 Always read the schema first (`mcporter list socialfaktory --schema`) and pass arguments exactly
