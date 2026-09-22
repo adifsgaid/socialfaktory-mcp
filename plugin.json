@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "socialfaktory",
+  "displayName": "SocialFaktory",
+  "version": "1.0.0",
+  "description": "Write, generate, schedule and publish a brand's social content, in its own voice, on every channel.",
+  "author": {
+    "name": "Moduslab"
+  },
+  "homepage": "https://www.socialfaktory.com/docs/mcp",
+  "repository": "https://github.com/adifsgaid/socialfaktory-mcp",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "social-media",
+    "productivity",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg"
+}
